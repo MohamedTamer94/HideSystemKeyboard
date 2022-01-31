@@ -19,7 +19,7 @@ build:
     desugar_deps: false
 
   kotlin:
-    enable: true
+    enable: false
 
   # Optimizes your extension on every release build.
   release:
