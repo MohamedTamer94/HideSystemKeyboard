@@ -1,3 +1,3 @@
-## HideSystemKeyboard
 
-An App Inventor 2 extension created using Rush.
+# HideSystemKeyboard
+An AI2 extension to enable or disable the system keyboard for a specific textbox.
